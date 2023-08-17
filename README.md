@@ -1,4 +1,4 @@
-# My Portfolio Website (version 1.)
+# My Portfolio Website (version 1)
 
 A website project that showcases my personal portfolio.
 
