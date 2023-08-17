@@ -1,6 +1,6 @@
-# My Portfolio Website (NOT COMPLETED)
+# My Portfolio Website (version 1.)
 
-A website project that showcase my personal portfolio.
+A website project that showcases my personal portfolio.
 
 It is created with powerful frameworks such as React, Vite, Tailwind CSS, and Framer Motion, and deployed with the help of GitHub Pages.
 
@@ -25,7 +25,7 @@ Below is a documentation of my portfolio website. It includes important informat
 The full documentation can be found here (i.e., not out yet).
 
 ### Vite
-[Vite](https://vitejs.dev/guide/) is an useful tool that helps build a simple, yet effective, development environment for web projects. It supports multiple modern front-end frameworks such as React, Vue, and Svelte.
+[Vite](https://vitejs.dev/guide/) is a useful tool that helps build a simple, yet effective, development environment for web projects. It supports multiple modern front-end frameworks such as React, Vue, and Svelte.
 
 Vite is used to create my project and its development environment with a React template.
 
